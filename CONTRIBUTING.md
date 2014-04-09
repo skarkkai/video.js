@@ -73,7 +73,7 @@ Contributing code
 
 To contibute code you'll need to be able to build a copy of Video.js and run tests locally. There are a few requirements before getting started.
 
-- Node.js -- Video.js uses Node for build and test automation. Node is available for Windows, Mac OS X, Linux, and SunOS, as well as source code if that doesn't scare you. [Download and install Node.js](http://nodejs.org/download/)
+- Node.js -- Video.js uses Node for build and test automation. Node is available for Windows, Mac OS X, Linux, and SunOS, as well as source code if that doesn't scare you. Ubuntu 12.04 has Node version 0.6.x, which is too old. [Download and install Node.js](http://nodejs.org/download/)
 
 - grunt-cli -- Install grunt-cli globally so that you will have the correct version of grunt available for any project that needs it.
 
